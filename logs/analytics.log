@@ -1,0 +1,6 @@
+10:52:34.607 [main] DEBUG analytics -- Received request from 122.33.22.1
+10:52:34.609 [main] WARN  analytics -- Connection failed... Retrying... 
+10:52:34.609 [main] ERROR analytics -- Failed to Execute IO
+14:31:10.179 [main] DEBUG analytics -- Received request from 122.33.22.1
+14:31:10.180 [main] WARN  analytics -- Connection failed... Retrying... 
+14:31:10.181 [main] ERROR analytics -- Failed to Execute IO
